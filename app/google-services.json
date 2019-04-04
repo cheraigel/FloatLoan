@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "474434049196",
+    "firebase_url": "https://float-b27b2.firebaseio.com",
+    "project_id": "float-b27b2",
+    "storage_bucket": "float-b27b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474434049196:android:3164a54fc59c8e9b",
+        "android_client_info": {
+          "package_name": "com.example.kipchirchir.floatloan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl8dO2BqZhFeYmtoEIRB0VUf6Q0HTkj04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474434049196-t962edb0fstfvodj20u8838c75j2tp05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
